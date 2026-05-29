@@ -13,7 +13,7 @@ A solução substitui a dependência de APMs externos (como Datadog) centralizan
 | **2. Volumetria** | Validação em tempo de execução contra anomalias ou quedas drásticas de registros. | Automatizado ✅ |
 | **3. Schema Drift** | Monitoramento preventivo de quebras ou alterações de tipos de colunas de origem. | Automatizado ✅ |
 | **4. Logs e Traces** | Captura do tempo de execução do Spark em segundos (`duracao_segundos`) e persistência histórica. | Centralizado ✅ |
-| **5. Contrato de Dados** | Validação ativa de regras de negócio críticas financeiras antes da ingestão na camada Gold. | Automatizado ✅ |
+| **5. Contrato de Dados** | Validação ativa de regras de negócio críticas antes da ingestão na camada Gold. | Automatizado ✅ |
 
 ---
 
