@@ -1,7 +1,7 @@
 # Databricks Finance Data Observability (Data-Centric Framework)
 
 ## 📌 Visão Geral do Projeto
-Este projeto implementa um ecossistema de **Observabilidade de Dados Avançada** (Data Observability) focado 100% em Dados para a **Squad de Dados Financeiros**, operando dentro de um cenário de **Data Mesh** e utilizando a arquitetura **Medalhão** no Databricks.
+Este projeto implementa um ecossistema de **Observabilidade de Dados Avançada** (Data Observability) focado 100% em Dados para a **Squad de Dados**, operando dentro de um cenário de **Data Mesh** e utilizando a arquitetura **Medalhão** no Databricks.
 
 A solução substitui a dependência de APMs externos (como Datadog) centralizando a telemetria técnica e as validações de qualidade em uma **Tabela Delta de Auditoria** interna e automatizando alertas ricos diretamente no **Microsoft Teams**.
 
